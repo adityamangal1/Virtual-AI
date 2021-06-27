@@ -1,0 +1,54 @@
+('C:\\Users\\Aditya Mangal\\Desktop\\visual studio\\Jarvis Virtual '
+ 'AI\\build\\main\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Aditya Mangal\\Desktop\\visual studio\\Jarvis Virtual '
+   'AI\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'd:\\python 37\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'd:\\python '
+   '37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'd:\\python '
+   '37\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Aditya Mangal\\Desktop\\visual studio\\Jarvis Virtual '
+   'AI\\main.py',
+   'PYSOURCE'),
+  ('main.exe.manifest',
+   'C:\\Users\\Aditya Mangal\\Desktop\\visual studio\\Jarvis Virtual '
+   'AI\\build\\main\\main.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
